@@ -5,6 +5,11 @@ body {
     width: 100vw;
 }
 
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
 .container {
     display: flex;
     justify-content: space-around;
@@ -13,6 +18,7 @@ body {
     width: 750px;
     margin: auto;
 }
+
 .container-item {
     background: blue;
     height: 200px;
